@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 
 // Remplacez par vos identifiants réseau
-const char* ssid     = "D-Link";
-const char* password = "yahia19400000@@@@";
+const char* ssid     = "#############";
+const char* password = "#############";
 
 // Définir le numéro de port du serveur Web sur 80
 WiFiServer server(80);
